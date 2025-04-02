@@ -28,3 +28,9 @@ You must also set your Gemini API key:
 
 ```r
 Sys.setenv(GEMINI_API_KEY = "your_api_key_here")
+```
+## Installation Instructions
+
+- Run `devtools::install_github("https://github.com/isaacHD-coding/geminiRstudio")` in your RStudio Console.
+- Run `library(GeminiAssistant) to load the package.
+- Run the function `gemini_assistant()` to open the assistant.
