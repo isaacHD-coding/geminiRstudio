@@ -5,7 +5,7 @@ library(rstudioapi)
 library(stringr)
 
 gemini_assistant <- function() {
-  print("Gemini Assistant V12 Started")
+  # print("Gemini Assistant V12 Started")
   
   # UI with conversation history panel and input area
   ui <- fluidPage(
