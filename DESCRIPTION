@@ -1,16 +1,13 @@
 Package: GeminiAssistant
 Type: Package
-Title: What the Package Does (Title Case)
+Title: RstudioAssistant
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      "Isaac", "Estabrook"
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: A simple tool that runs Gemini 2.0 Flash as a native RStudio coding assistant.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
