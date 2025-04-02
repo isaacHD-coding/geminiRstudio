@@ -35,7 +35,7 @@ Sys.setenv(GEMINI_API_KEY = "your_api_key_here")
 - Run `library(GeminiAssistant) to load the package.
 - Run the function `gemini_assistant()` to open the assistant.
 
-  ## Known Issues
+## Known Issues
 
 - Markdown syntax highlighting sometimes breaks inside the assistant’s response window (e.g. text turns red unexpectedly). This is due to how Shiny renders verbatim text and is a UI limitation rather than a model or API bug.
 - The interface is functional but minimal — future improvements could include syntax highlighting, collapsible history, and better formatting.
